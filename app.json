@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/cobweb1191221/FDnginx",
-  "repository": "https://github.com/cobweb1191221/FDnginx",
+  "website": "https://github.com/jjhiugg/nginx",
+  "repository": "https://github.com/jjhiugg/nginx",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
